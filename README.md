@@ -46,25 +46,7 @@
 <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=aaryankumar19&theme=dark&hide_border=true"/>
 </p>
 
-<!-- <p align="center"> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar19&theme=dark&hide_border=true&layout=compact"/> -->
-<!-- </p> -->
-
 ---
-
-## Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar19&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-<!-- ## 🏆 Top Contributions -->
-<!-- <p align="center"> -->
-<!--   <img src="https://github-contributor-stats.vercel.app/api?username=aaryankumar19&limit=5&theme=dark&combine_all_yearly_contributions=true"/> -->
-<!-- </p> -->
-
-<!-- <img src="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/output/github-contribution-grid-snake-dark.svg" /> -->
 
 ## My Contribution Graph
 <picture>
@@ -72,4 +54,3 @@
     srcset="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/output/pacman-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/output/pacman-contribution-graph.svg">
 </picture>
-
