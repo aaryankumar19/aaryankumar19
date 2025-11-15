@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Loves+Debugging+and+Breaking+Things;API+and+Automation;Builds+Real+Systems,+Not+Just+Projects;Always+Learning+and+Experimenting" />
 </p>
 
+---
 
 ## 💻 Tech Stack (My Daily Toolkit)
 <p align="left">
@@ -37,10 +38,9 @@
 <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-</p>
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=aaryankumar19&theme=dark&hide_border=true&show_icons=true&count_private=true"/>
 <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=aaryankumar19&theme=dark&hide_border=true"/>
@@ -52,7 +52,7 @@
 
 ---
 
-## 📈 Contribution Activity Graph
+## Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar19&theme=react-dark&hide_border=true"/>
 </p>
@@ -65,6 +65,7 @@
 <!-- </p> -->
 
 <!-- <img src="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/output/github-contribution-grid-snake-dark.svg" /> -->
+
 ## My Contribution Graph
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/output/pacman-contribution-graph-dark.svg">
