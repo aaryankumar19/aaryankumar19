@@ -57,14 +57,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryankumar19&theme=react-dark&hide_border=true"/>
 </p>
 
----
-
-<!-- ## 🏆 Top Contributions -->
-<!-- <p align="center"> -->
-<!--   <img src="https://github-contributor-stats.vercel.app/api?username=aaryankumar19&limit=5&theme=dark&combine_all_yearly_contributions=true"/> -->
-<!-- </p> -->
-
-## My Contribution Graph
 <!-- <img src="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/output/github-contribution-grid-snake-dark.svg" /> -->
 ## My Contribution Graph
 <picture>
