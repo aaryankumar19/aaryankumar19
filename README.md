@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Malik 👋</h1>
+<h1 align="center">Hey, I'm Aaryan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=440&lines=Backend+Engineer;API+Builder;Automation+Enthusiast;Clean+Code+Practitioner;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=440&lines=Backend+Engineer;Loves+Debugging+and+Breaking+Things;API+and+Automation+Specialist;Builds+Real+Systems,+Not+Just+Projects;Always+Learning+and+Experimenting" />
 </p>
 
 ---
