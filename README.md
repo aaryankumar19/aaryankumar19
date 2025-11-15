@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aaryan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=440&lines=Backend+Developer;Loves+Debugging+and+Breaking+Things;API+and+Automation;Builds+Real+Systems,+Not+Just+Projects;Always+Learning+and+Experimenting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Loves+Debugging+and+Breaking+Things;API+and+Automation;Builds+Real+Systems,+Not+Just+Projects;Always+Learning+and+Experimenting" />
 </p>
 
 ---
@@ -47,9 +47,9 @@
 <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=aaryankumar19&theme=dark&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar19&theme=dark&hide_border=true&layout=compact"/>
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryankumar19&theme=dark&hide_border=true&layout=compact"/> -->
+<!-- </p> -->
 
 ---
 
@@ -60,7 +60,10 @@
 
 ---
 
-## 🏆 Top Contributions
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aaryankumar19&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+<!-- ## 🏆 Top Contributions -->
+<!-- <p align="center"> -->
+<!--   <img src="https://github-contributor-stats.vercel.app/api?username=aaryankumar19&limit=5&theme=dark&combine_all_yearly_contributions=true"/> -->
+<!-- </p> -->
+
+## 🐍 Snake Contribution Graph
+<img src="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/output/github-contribution-grid-snake-dark.svg" />
