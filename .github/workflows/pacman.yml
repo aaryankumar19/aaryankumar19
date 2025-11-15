@@ -2,8 +2,8 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once every 24 hours
-  workflow_dispatch:       # manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,18 +13,28 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate pacman-contribution-graph
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      - name: Generate Pac-Man files
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          output_filename: pacman-contribution-graph.svg
+          dark_output_filename: pacman-contribution-graph-dark.svg
 
-      - name: Push pacman svg to output branch
+      - name: Move generated files to dist
+        run: |
+          mv pacman-contribution-graph.svg dist/ || true
+          mv pacman-contribution-graph-dark.svg dist/ || true
+          ls -la dist
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
