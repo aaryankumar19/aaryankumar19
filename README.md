@@ -1,6 +1,8 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Aaryan Kumar</h1>
 
-**Backend Developer | AI Integrations | Automation**
+<p align="center">
+  <b>Backend Developer | AI Integrations | Automation</b>
+</p>
 
 ### Skills
 
@@ -19,9 +21,6 @@
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=aaryankumar19&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" height="150" />
   <img src="https://streak-stats.demolab.com/?user=aaryankumar19&theme=highcontrast&hide_border=false" height="150" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aaryankumar19&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 </p>
 
