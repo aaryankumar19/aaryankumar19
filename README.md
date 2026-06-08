@@ -30,3 +30,10 @@
     <img src="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/output/pacman-contribution-graph.svg" alt="Contribution Graph">
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/main/output/contribs-dark.svg" />
+    <img alt="Isometric GitHub contribution chart" src="https://raw.githubusercontent.com/aaryankumar19/aaryankumar19/main/output/contribs-light.svg" />
+  </picture>
+</p>
